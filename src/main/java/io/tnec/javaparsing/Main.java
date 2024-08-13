@@ -4,6 +4,7 @@ import com.github.javaparser.StaticJavaParser;
 import com.github.javaparser.ast.body.MethodDeclaration;
 
 public class Main {
+
     private static final String TEST_CASE = """
 /**
  * Tests for correct dependency retrieval with maven rules.
