@@ -1,0 +1,4 @@
+bazel-bin/
+bazel-javaparsing/
+bazel-out/
+bazel-testlogs/
